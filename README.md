@@ -1,5 +1,5 @@
 <!-- Information using h1 tag -->
-<h1 align="center">Hi 👋, I'm Ahmet</h1>
+<h1 align="center">Hi 👋, I'm İdris </h1>
 - 👀 I am QA Test Automation Engineer on web based application.
 
 
