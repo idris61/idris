@@ -1,6 +1,6 @@
 <!-- Information using h1 tag -->
 <h1 align="center">Hi 👋, I'm İdris </h1>
-<h1 align="center">👀 I am QA Test Automation Engineer on web based application.</h1>
+<h1 align="center">👀Full Stack Test Automation Engineer & Quality Assurance (QA) Engineer</h1>
 
 <h2><a href="https://github.com/idris61/API_Batch81" >🧿 API Ders Kodları </a> </h2>
 
