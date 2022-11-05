@@ -1,7 +1,6 @@
 <!-- Information using h1 tag -->
 <h1 align="center">Hi 👋, I'm İdris </h1>
 - 👀 I am QA Test Automation Engineer on web based application.
-<h2><a href="https://github.com/idris61/Free-Java-Dersleri" >🧿 Free Java Hazirlik Dersleri </a> </h2>
 
 <h2><a href="https://github.com/idris61/API_Batch81" >🧿 API Ders Kodları </a> </h2>
 
