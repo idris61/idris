@@ -1,5 +1,5 @@
 <!-- Information using h1 tag -->
-<h1 align="center">Hi 👋, I'm İdris </h1>
+<h1 align="center">Hi 👋, I'm İdris. </h1>
 <h1 align="center">Full Stack Test Automation Engineer</h1>
 <h1 align="center">&</h1>
 <h1 align="center">Quality Assurance (QA) Engineer</h1>
