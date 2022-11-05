@@ -110,15 +110,3 @@
 
 ### <p align="left"> :fire: My Stats :  <img src="https://komarev.com/ghpvc/?username=vince-gasimov&label=Profile%20views&color=0e75b6&style=flat" alt="vince-gasimov" /> </p>
 
-
-<div align="center">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vince-gasimov&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-  
-  </div>
-
-<div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vince-gasimov&theme=dark)](https://git.io/streak-stats)
-  
-  </div>
