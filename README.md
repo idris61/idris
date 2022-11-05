@@ -1,7 +1,21 @@
 <!-- Information using h1 tag -->
 <h1 align="center">Hi 👋, I'm İdris </h1>
 - 👀 I am QA Test Automation Engineer on web based application.
+<h2><a href="https://github.com/idris61/Free-Java-Dersleri" >🧿 Free Java Hazirlik Dersleri </a> </h2>
 
+<h2><a href="https://github.com/idris61/API_Batch81" >🧿 API Ders Kodları </a> </h2>
+
+<h2><a href="https://github.com/idris61/java_summer_2022_Kurs_Projesi" >🧿 Java Ders Kodları </a> </h2>
+
+<h2><a href="https://github.com/idris61/PosgreSQL-Kodlari" >🧿 Posgre SQL Ders Kodları </a> </h2>
+
+<h2><a href="https://github.com/idris61/Selenium_Batch81_Cucumber" >🧿 Selenium-Cucumber Ders Kodları </a> </h2>
+
+<h2><a href="https://github.com/idris61/Selenium_Batch81_TestNG" >🧿 Selenium-TestNG Dest Kodları</a> </h2>
+
+<h2><a href="https://github.com/idris61/Selenium_Bathch81_JUnit" >🧿 Selenium-JUnit Ders Kodları</a> </h2>
+
+<h2><a href="https://github.com/idris61/JDBC" >🧿 JDBC Ders Kodları</a> </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+QA+Test+Automation+Engineer;I+am+İdris&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
