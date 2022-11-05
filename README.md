@@ -1,4 +1,3 @@
-## 💫About Me : Hi there 👋
 <!-- Information using h1 tag -->
 <h1 align="center">Hi 👋, I'm İdris. </h1>
 <h1 align="center">Full Stack Test Automation Engineer</h1>
