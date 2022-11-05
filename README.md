@@ -1,4 +1,5 @@
-## 💫About Me : Hi there 👋
+<!-- Information using h1 tag -->
+<h1 align="center">Hi 👋, I'm Ahmet</h1>
 - 👀 I am QA Test Automation Engineer on web based application.
 
 
