@@ -10,10 +10,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
 </div>
 
-## 📫 How to reach me : [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/in/idris-gemici/)) <!--[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]([https://github.com/idris61))-->
+## 📫 How to reach me : [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/idris-gemici/) <!--[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/idris61)-->
 - ✍️ I have been involved in UI and Backend automation development for functional tests; smoke, regression and End to End test. <br/>
 - ✍️ I like collaboration and communication to produce quality products as a team. 
-![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/idris/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
 
 ## 💻Tech Stack
 
