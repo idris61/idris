@@ -18,6 +18,8 @@
 
 <h2><a href="https://github.com/idris61/JDBC" >🧿 JDBC Ders Kodları</a> </h2>
 
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+QA+Test+Automation+Engineer;I+am+İdris&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
